@@ -1,0 +1,10 @@
+Points: 
+-- use trim property of css for better "typing...".
+--make the content more professional( add 'contact us' types of things at the front page, add more content in the front page)
+Ideas: 
+-- at later stages, 
+            -> could bring up another page showing a gist of other popular rooms.
+            -> could add features to stream songs in a room.
+            -> sending and recieving images and videos as well.
+Next steps: * make things more efficient where possible.
+            * look for any bugs or hacks available.

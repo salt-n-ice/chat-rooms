@@ -1,0 +1,76 @@
+body{
+  overflow: hidden;
+  background: url("https://images8.alphacoders.com/624/thumb-1920-624879.jpg");
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+.entry{
+  width: 45%;
+  font-size: 1rem;
+}
+p{
+  font-size: 1rem;
+}
+label{
+  float: left;
+  margin-right: 15px;
+}
+.heading{
+  text-align: center;
+  padding-bottom:100px;
+}
+.short-intro{
+  margin: 0 auto 50px;
+  width: 80%;
+  text-align: center;
+  padding-bottom: 100px;
+}
+.name{
+  width: 50%;
+  height: 30px;
+  padding-right: 0;
+}
+.room{
+  width: 50%;
+  height: 30px;
+}
+#formId{
+  display: flex;
+}
+.name-field{
+  display: flex;
+  flex-basis: 550px;
+  /* flex-shrink: 50%; */
+  /* margin-right: 25px; */
+}
+.room-field{
+  display: flex;
+  flex-basis: 550px;
+  /* flex-shrink: 50%; */
+}
+.submit{
+  /* flex-basis: 75px; */
+  height: 30px;
+}
+.room-page{
+  width: 900px;
+}
+.messages{
+  overflow: auto;
+  height: 420px;
+}
+.a-message-box{
+  border-radius: 5%;
+  width: 500px;
+  border-style: solid;
+  border-width: 1px 2px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.message-input{
+  display: flex;
+}
+.typing{
+  height: 15px;
+}
